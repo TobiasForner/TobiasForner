@@ -1,10 +1,27 @@
 # Projects
-- pkmt
-- morg
-- auto_summary
-- fitnessApp 2
-- scraper
-- image viewer
+- [PKMT](https://github.com/TobiasForner/pkmt) (Rust)
+    - import tasks from todoist into different markdown-based note taking systems
+    - initially intended for converting between the different markdown flavours used by these systems, but that is still a work in progress
+    - partially supported are Obsidian, LogSeq and zk
+- morg (Rust)
+    - tool for organising music files on PC and (Android) phones (via `adb`)
+    - uses discogs API to get more meta data
+- auto_summary (Python)
+    - customisable tool for generating LaTeX code from PDF files
+    - I mostly used this during my time at university to write my own summaries with the lecture material as a basis
+- fitnessApp 2 (Android, mix of Java and Jetpack Compose (Kotlin))
+    - Android workout and Fitness app
+    - initial goal was to have a power-user-focused interface that uses mostly plain text for workout specification
+    - also supports weight tracking
+    - would like to convert the UI to Jetpack Compose (weight tracking is in Compose already)
+    - after the conversion, I would like to try my hand at a more user-friendly UI
+- scraper (Python)
+    - tool for scraping images from webpages
+    - also supports some basic image transformation to make the images follow a standard format
+    - also supports converting images to a more ereader-friendly format
+    - supports moving files to an android phone (via `adb`)
+- image viewer (Jetpack Compose (Kotlin))
+    - viewer app (Android) for the scraper tool
 - [Advent of Code 2023 (Rust, partially solved)](https://github.com/TobiasForner/aoc-2023)
 - [Advent of Code 2021 (Rust)](https://github.com/TobiasForner/aoc2021_rust)
 - [Advent of Code 2020 (Python)](https://github.com/TobiasForner/AdventOfCode)
