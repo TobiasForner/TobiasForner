@@ -1,3 +1,8 @@
+# About me
+Hi, I am Tobias. I obtained my master's degree in Informatics and Technical University of Munich in 2023.
+I like biking, bouldering, reading, and of course programming.
+Below you can get a short overview of a few of my projects.
+
 # Projects
 - [PKMT (Rust)](https://github.com/TobiasForner/pkmt)
     - import tasks from todoist into different markdown-based note taking systems
@@ -6,9 +11,6 @@
 - morg (Rust)
     - tool for organising music files on PC and (Android) phones (via `adb`)
     - uses discogs API to get more meta data
-- auto_summary (Python)
-    - customisable tool for generating LaTeX code from PDF files
-    - I mostly used this during my time at university to write my own summaries with the lecture material as a basis
 - fitnessApp 2 (Android, mix of Java and Jetpack Compose (Kotlin))
     - Android workout and Fitness app
     - initial goal was to have a power-user-focused interface that uses mostly plain text for workout specification
@@ -22,6 +24,9 @@
     - supports moving files to an android phone (via `adb`)
 - image viewer (Jetpack Compose (Kotlin))
     - viewer app (Android) for the scraper tool
+- auto_summary (Python)
+    - customisable tool for generating LaTeX code from PDF files
+    - I mostly used this during my time at university to write my own summaries with the lecture material as a basis
 - [GraphRepartition (C++)](https://doi.org/10.1137/1.9781611976489.4)
     - Code accompanying the published version of my Bachelor's thesis, see also https://doi.org/10.1137/1.9781611976489.4
     - the project is about maintaining maximal components of a graph whose connectivity is above some given level $\alpha$
