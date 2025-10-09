@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**TobiasForner/TobiasForner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Projects
+- pkmt
+- morg
+- auto_summary
+- fitnessApp 2
+- scraper
+- image viewer
+- [Advent of Code 2023 (Rust, partially solved)](https://github.com/TobiasForner/aoc-2023)
+- [Advent of Code 2021 (Rust)](https://github.com/TobiasForner/aoc2021_rust)
+- [Advent of Code 2020 (Python)](https://github.com/TobiasForner/AdventOfCode)
