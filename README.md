@@ -1,5 +1,5 @@
 # Projects
-- [PKMT](https://github.com/TobiasForner/pkmt) (Rust)
+- [PKMT (Rust)](https://github.com/TobiasForner/pkmt)
     - import tasks from todoist into different markdown-based note taking systems
     - initially intended for converting between the different markdown flavours used by these systems, but that is still a work in progress
     - partially supported are Obsidian, LogSeq and zk
@@ -22,6 +22,14 @@
     - supports moving files to an android phone (via `adb`)
 - image viewer (Jetpack Compose (Kotlin))
     - viewer app (Android) for the scraper tool
+- [GraphRepartition (C++)](https://doi.org/10.1137/1.9781611976489.4)
+    - Code accompanying the published version of my Bachelor's thesis, see also https://doi.org/10.1137/1.9781611976489.4
+    - the project is about maintaining maximal components of a graph whose connectivity is above some given level $\alpha$
+        - the graph may undergo changes like edge deletions, edge insertions or weight increases and these components must be updated in an efficient way
+        - potential applications include distributed computing where one would like to place workers that communicate often on the same machine
+        - here, the edge weights in the graph represent past communication requests
+## Advent of Code
+[Advent of Code](https://adventofcode.com/) is an advent calendar of coding challenges.
 - [Advent of Code 2023 (Rust, partially solved)](https://github.com/TobiasForner/aoc-2023)
 - [Advent of Code 2021 (Rust)](https://github.com/TobiasForner/aoc2021_rust)
 - [Advent of Code 2020 (Python)](https://github.com/TobiasForner/AdventOfCode)
