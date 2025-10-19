@@ -11,20 +11,13 @@ Below you can get a short overview of a few of my projects.
 - 🎶 morg (Rust)
     - tool for organising music files on PC and (Android) phones (via `adb`)
     - uses discogs API to get more meta data
-- 🏋️ fitnessApp 2 (Android, mix of Java and Jetpack Compose (Kotlin))
+- [🏋️itness App (Android, mix of Java and Jetpack Compose (Kotlin))](https://github.com/TobiasForner/FitnessApp)
     - Android workout and Fitness app
     - initial goal was to have a power-user-focused interface that uses mostly plain text for workout specification
     - also supports weight tracking
     - would like to convert the UI to Jetpack Compose (weight tracking is in Compose already)
     - after the conversion, I would like to try my hand at a more user-friendly UI
-- 🖼️ scraper (Python)
-    - tool for scraping images from webpages
-    - also supports some basic image transformation to make the images follow a standard format
-    - also supports converting images to a more ereader-friendly format
-    - supports moving files to an android phone (via `adb`)
-- 🖼️ image viewer (Jetpack Compose (Kotlin))
-    - viewer app (Android) for the scraper tool
-- 🗒️ auto_summary (Python)
+- [🗒️auto_summary (Python)](https://github.com/TobiasForner/auto-summary)
     - customisable tool for generating LaTeX code from PDF files
     - I mostly used this during my time at university to write my own summaries with the lecture material as a basis
 - [GraphRepartition (C++)](https://doi.org/10.1137/1.9781611976489.4)
