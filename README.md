@@ -20,7 +20,7 @@ Below you can get a short overview of a few of my projects.
 - [🗒️auto_summary (Python)](https://github.com/TobiasForner/auto-summary)
     - customisable tool for generating LaTeX code from PDF files
     - I mostly used this during my time at university to write my own summaries with the lecture material as a basis
-- [GraphRepartition (C++)](https://doi.org/10.1137/1.9781611976489.4)
+- [GraphRepartition (C++)](https://github.com/TobiasForner/GraphRepartition)
     - Code accompanying the published version of my Bachelor's thesis, see also https://doi.org/10.1137/1.9781611976489.4
     - the project is about maintaining maximal components of a graph whose connectivity is above some given level $\alpha$
         - the graph may undergo changes like edge deletions, edge insertions or weight increases and these components must be updated in an efficient way
