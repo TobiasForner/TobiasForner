@@ -4,30 +4,30 @@ I like biking, bouldering, reading, and of course programming.
 Below you can get a short overview of a few of my projects.
 
 # Projects
-- 📓[PKMT (Rust)](https://github.com/TobiasForner/pkmt)
-    - import tasks from todoist into different markdown-based note taking systems
-    - initially intended for converting between the different markdown flavours used by these systems, but that is still a work in progress
-    - partially supported are Obsidian, LogSeq and zk
-- 🎶 morg (Rust)
-    - tool for organising music files on PC and (Android) phones (via `adb`)
-    - uses discogs API to get more meta data
-- [🏋️itness App (Android, mix of Java and Jetpack Compose (Kotlin))](https://github.com/TobiasForner/FitnessApp)
-    - Android workout and Fitness app
-    - initial goal was to have a power-user-focused interface that uses mostly plain text for workout specification
-    - also supports weight tracking
-    - would like to convert the UI to Jetpack Compose (weight tracking is in Compose already)
-    - after the conversion, I would like to try my hand at a more user-friendly UI
-- [🗒️auto_summary (Python)](https://github.com/TobiasForner/auto-summary)
-    - customisable tool for generating LaTeX code from PDF files
-    - I mostly used this during my time at university to write my own summaries with the lecture material as a basis
-- [GraphRepartition (C++)](https://github.com/TobiasForner/GraphRepartition)
-    - Code accompanying the published version of my Bachelor's thesis, see also https://doi.org/10.1137/1.9781611976489.4
-    - the project is about maintaining maximal components of a graph whose connectivity is above some given level $\alpha$
-        - the graph may undergo changes like edge deletions, edge insertions or weight increases and these components must be updated in an efficient way
-        - potential applications include distributed computing where one would like to place workers that communicate often on the same machine
-        - here, the edge weights in the graph represent past communication requests
+## 📓[PKMT (Rust)](https://github.com/TobiasForner/pkmt)
+- import tasks from todoist into different markdown-based note taking systems
+- initially intended for converting between the different markdown flavours used by these systems, but that is still a work in progress
+- partially supported are Obsidian, LogSeq and zk
+## [🎶 morg (Rust)](https://github.com/TobiasForner/morg)
+- tool for organising music files on PC and (Android) phones (via `adb`)
+- uses discogs API to get more meta data
+## [🏋️Fitness App (Android, mix of Java and Jetpack Compose (Kotlin))](https://github.com/TobiasForner/FitnessApp)
+- Android workout and Fitness app
+- initial goal was to have a power-user-focused interface that uses mostly plain text for workout specification
+- also supports weight tracking
+- would like to convert the UI to Jetpack Compose (weight tracking is in Compose already)
+- after the conversion, I would like to try my hand at a more user-friendly UI
+## [🗒️auto_summary (Python)](https://github.com/TobiasForner/auto-summary)
+- customisable tool for generating LaTeX code from PDF files
+- I mostly used this during my time at university to write my own summaries with the lecture material as a basis
+## [GraphRepartition (C++)](https://github.com/TobiasForner/GraphRepartition)
+- Code accompanying the published version of my Bachelor's thesis, see also https://doi.org/10.1137/1.9781611976489.4
+- the project is about maintaining maximal components of a graph whose connectivity is above some given level $\alpha$
+    - the graph may undergo changes like edge deletions, edge insertions or weight increases and these components must be updated in an efficient way
+    - potential applications include distributed computing where one would like to place workers that communicate often on the same machine
+    - here, the edge weights in the graph represent past communication requests
 ## 🎄Advent of Code
 [Advent of Code](https://adventofcode.com/) is an advent calendar of coding challenges.
 - [Advent of Code 2023 (Rust, partially solved)](https://github.com/TobiasForner/aoc-2023)
-- [Advent of Code 2021 (Rust)](https://github.com/TobiasForner/aoc2021_rust)
-- [Advent of Code 2020 (Python)](https://github.com/TobiasForner/AdventOfCode)
+- [Advent of Code 2021 (Rust, completed)](https://github.com/TobiasForner/aoc2021_rust)
+- [Advent of Code 2020 (Python, completed)](https://github.com/TobiasForner/AdventOfCode)
