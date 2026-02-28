@@ -8,8 +8,12 @@ Below you can get a short overview of a few of my projects.
 - import tasks from todoist into different markdown-based note taking systems
 - initially intended for converting between the different markdown flavours used by these systems, but that is still a work in progress
 - partially supported are Obsidian, LogSeq and zk
+## [scraper (Python)](https://github.com/TobiasForner/scraper)
+- scrape images or text
+- conversion to ebook formats cbz or epub
+- copy to Android via ADB
 ## [🎶 morg (Rust)](https://github.com/TobiasForner/morg)
-- tool for organising music files on PC and (Android) phones (via `adb`)
+- tool for organising music files on PC and (Android) phones (via ADB)
 - uses discogs API to get more meta data
 ## [🏋️Fitness App (Android, mix of Java and Jetpack Compose (Kotlin))](https://github.com/TobiasForner/FitnessApp)
 - Android workout and Fitness app
