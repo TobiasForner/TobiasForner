@@ -32,6 +32,6 @@ Below you can get a short overview of a few of my projects.
     - here, the edge weights in the graph represent past communication requests
 ## 🎄Advent of Code
 [Advent of Code](https://adventofcode.com/) is an advent calendar of coding challenges.
-- [Advent of Code 2023 (Rust, partially solved)](https://github.com/TobiasForner/aoc-2023)
+- [Advent of Code 2023 (Rust, completed)](https://github.com/TobiasForner/aoc-2023)
 - [Advent of Code 2021 (Rust, completed)](https://github.com/TobiasForner/aoc2021_rust)
 - [Advent of Code 2020 (Python, completed)](https://github.com/TobiasForner/AdventOfCode)
